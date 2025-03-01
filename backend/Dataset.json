@@ -1,0 +1,306 @@
+[
+  {
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "clues": [
+          "Known for its elaborate canal system and narrow houses.",
+          "Home to the Van Gogh Museum."
+      ],
+      "fun_fact": [
+          "Amsterdam has more than 1,500 bridges.",
+          "It is renowned for its cycling culture."
+      ],
+      "trivia": [
+          "The city hosts the famous King's Day celebration.",
+          "Amsterdam's red-light district is one of its oldest neighborhoods."
+      ]
+  },
+  {
+      "city": "Barcelona",
+      "country": "Spain",
+      "clues": [
+          "Famous for its stunning architecture by Antoni Gaudí.",
+          "Home to the iconic Sagrada Familia church."
+      ],
+      "fun_fact": [
+          "Barcelona has a beach in the city center.",
+          "It is known for its tapas bars and vibrant food culture."
+      ],
+      "trivia": [
+          "The city hosted the Summer Olympics in 1992.",
+          "Los Angeles is Barcelona's sister city."
+      ]
+  },
+  {
+      "city": "Beijing",
+      "country": "China",
+      "clues": [
+          "The capital city known for its historical sites.",
+          "Home to Tiananmen Square and the Forbidden City."
+      ],
+      "fun_fact": [
+          "The Great Wall of China is visible from space.",
+          "Beijing is one of the oldest cities in the world."
+      ],
+      "trivia": [
+          "The city hosted the Summer Olympics in 2008.",
+          "Peking Duck is a famous dish from this city."
+      ]
+  },
+  {
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "clues": [
+          "Known for the tango and its vibrant cultural scene.",
+          "Home to the iconic Obelisco."
+      ],
+      "fun_fact": [
+          "Buenos Aires has the largest Jewish community in Latin America.",
+          "The city has a European-style architecture."
+      ],
+      "trivia": [
+          "It is known as the 'Paris of South America.'",
+          "The city has many colorful neighborhoods, like La Boca."
+      ]
+  },
+  {
+      "city": "Cairo",
+      "country": "Egypt",
+      "clues": [
+          "Home to ancient pyramids and the Sphinx.",
+          "Built along the banks of the Nile River."
+      ],
+      "fun_fact": [
+          "The Great Pyramid of Giza is one of the Seven Wonders of the Ancient World.",
+          "Cairo is the largest city in the Middle East."
+      ],
+      "trivia": [
+          "The city has over 1,000 mosques.",
+          "Khan el-Khalili is a famous bazaar in Cairo."
+      ]
+  },
+  {
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "clues": [
+          "Known for luxury shopping and ultramodern architecture.",
+          "Home to the Burj Khalifa, the tallest building in the world."
+      ],
+      "fun_fact": [
+          "Dubai has no natural rivers;",
+          "It features artificial islands like the Palm Jumeirah."
+      ],
+      "trivia": [
+          "The city has a diverse population, with over 200 nationalities.",
+          "The Dubai Shopping Festival attracts millions of visitors every year."
+      ]
+  },
+  {
+      "city": "Hanoi",
+      "country": "Vietnam",
+      "clues": [
+          "The capital city known for its centuries-old architecture.",
+          "Home to the Hoan Kiem Lake."
+      ],
+      "fun_fact": [
+          "Hanoi is famous for its pho noodle soup.",
+          "The city has a mix of French colonial buildings and traditional Vietnamese architecture."
+      ],
+      "trivia": [
+          "Hanoi was the capital of Vietnam during the Vietnam War.",
+          "It is known for its vibrant street food scene."
+      ]
+  },
+  {
+      "city": "Istanbul",
+      "country": "Turkey",
+      "clues": [
+          "Known for its rich history and stunning architecture.",
+          "Home to the Hagia Sophia and the Blue Mosque."
+      ],
+      "fun_fact": [
+          "Istanbul is the only city in the world that straddles two continents: Europe and Asia.",
+          "The city was formerly known as Byzantium and Constantinople."
+      ],
+      "trivia": [
+          "It has more than 2,500 mosques.",
+          "The Grand Bazaar is one of the largest and oldest covered markets."
+      ]
+  },
+  {
+      "city": "Lisbon",
+      "country": "Portugal",
+      "clues": [
+          "The capital city known for its hills and scenic views.",
+          "Home to the historic Tram 28."
+      ],
+      "fun_fact": [
+          "Lisbon is one of the oldest cities in Western Europe.",
+          "The city is known for its soulful Fado music."
+      ],
+      "trivia": [
+          "It is famous for its custard tarts called pastéis de nata.",
+          "Lisbon's Vasco da Gama Bridge is one of the longest in Europe."
+      ]
+  },
+  {
+      "city": "Madrid",
+      "country": "Spain",
+      "clues": [
+          "The capital city known for its art museums and vibrant nightlife.",
+          "Home to the Royal Palace."
+      ],
+      "fun_fact": [
+          "Madrid is the highest capital city in Europe.",
+          "The city boasts a large number of parks and green spaces."
+      ],
+      "trivia": [
+          "It's famous for its tapas and jamón ibérico.",
+          "The city has the largest bullring in Spain."
+      ]
+  },
+  {
+      "city": "Mexico City",
+      "country": "Mexico",
+      "clues": [
+          "Built on the ruins of the ancient Aztec city of Tenochtitlan.",
+          "Known for its historic center, a UNESCO World Heritage Site."
+      ],
+      "fun_fact": [
+          "Mexico City is one of the largest cities in the world by population.",
+          "It sits at an altitude of 2,240 meters (7,350 feet)."
+      ],
+      "trivia": [
+          "The city has more museums than any other city in the world.",
+          "Chiles en nogada is a traditional dish from this region."
+      ]
+  },
+  {
+      "city": "New Delhi",
+      "country": "India",
+      "clues": [
+          "The capital of India, known for its historical landmarks.",
+          "Home to the India Gate and Rashtrapati Bhavan."
+      ],
+      "fun_fact": [
+          "New Delhi is part of the larger National Capital Territory of Delhi.",
+          "It has a vibrant mix of cultures and traditions."
+      ],
+      "trivia": [
+          "The city is known for its colorful markets and street food.",
+          "New Delhi hosted the Commonwealth Games in 2010."
+      ]
+  },
+  {
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "clues": [
+          "Famous for its Carnival and beautiful beaches.",
+          "Home to the Sugarloaf Mountain."
+      ],
+      "fun_fact": [
+          "Rio Declaration embraces sustainable development.",
+          "The city hosted the Summer Olympics in 2016."
+      ],
+      "trivia": [
+          "Christ the Redeemer statue overlooks the city.",
+          "The city has one of the largest urban forests in the world."
+      ]
+  },
+  {
+      "city": "Rome",
+      "country": "Italy",
+      "clues": [
+          "Known as the Eternal City, rich in history.",
+          "Home to the Vatican City."
+      ],
+      "fun_fact": [
+          "Rome is the only city with a country (Vatican City) inside it.",
+          "It has over 280 fountains."
+      ],
+      "trivia": [
+          "The city was founded in 753 BC.",
+          "It has an iconic dish called Carbonara."
+      ]
+  },
+  {
+      "city": "San Francisco",
+      "country": "United States",
+      "clues": [
+          "Known for the Golden Gate Bridge and its hilly landscape.",
+          "Home to Alcatraz Island."
+      ],
+      "fun_fact": [
+          "The city has more than 50 hills.",
+          "It was one of the first cities in the U.S. to allow same-sex marriage."
+      ],
+      "trivia": [
+          "Cable cars are a symbol of San Francisco.",
+          "The city has a diverse food scene, especially known for sourdough bread."
+      ]
+  },
+  {
+      "city": "Singapore",
+      "country": "Singapore",
+      "clues": [
+          "A city-state known for its strict laws and cleanliness.",
+          "Home to Gardens by the Bay."
+      ],
+      "fun_fact": [
+          "Singapore is one of the world's most green cities.",
+          "The Marina Bay Sands SkyPark has a swimming pool on its roof."
+      ],
+      "trivia": [
+          "The city has no natural lakes, relying on rainwater harvesting.",
+          "Hawker centers are crucial to its culinary scene."
+      ]
+  },
+  {
+      "city": "Sydney",
+      "country": "Australia",
+      "clues": [
+          "Home to the Sydney Opera House and Harbour Bridge.",
+          "Known for its stunning beaches."
+      ],
+      "fun_fact": [
+          "The Sydney Opera House was completed in 1973, costing over 100 million dollars.",
+          "The city hosted the Summer Olympics in 2000."
+      ],
+      "trivia": [
+          "Bondi Beach is known globally for its surf culture.",
+          "Sydney is the largest city in Australia."
+      ]
+  },
+  {
+      "city": "Tokyo",
+      "country": "Japan",
+      "clues": [
+          "A buzzing metropolis known for its futuristic technology.",
+          "Home to the historic Senso-ji Temple."
+      ],
+      "fun_fact": [
+          "Tokyo is the capital of Japan and one of the most populous cities in the world.",
+          "It has the world's busiest train station, Shinjuku Station."
+      ],
+      "trivia": [
+          "Anime and manga culture are prominent here.",
+          "Tokyo's cherry blossoms attract tourists every spring."
+      ]
+  },
+  {
+      "city": "Wellington",
+      "country": "New Zealand",
+      "clues": [
+          "The capital city known for its arts scene and coastal views.",
+          "Home to the national museum, Te Papa."
+      ],
+      "fun_fact": [
+          "Wellington has the world's coolest little capital according to Lonely Planet.",
+          "It’s known for its strong coffee culture."
+      ],
+      "trivia": [
+          "The city experiences strong winds, earning it the nickname 'Windy Wellington.'",
+          "It has the largest population of wild parrots in the world."
+      ]
+  }
+]
