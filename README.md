@@ -38,11 +38,11 @@
 
 
 🔥 How to Play
-1️⃣ Enter your username to start the game.
-2️⃣ Read the clue and select the correct destination.
-3️⃣ Get immediate feedback (confetti 🎉 or sad animation 😢).
-4️⃣ Track your score as you progress.
-5️⃣ Click "Challenge a Friend" to generate a shareable invite link & QR code!
+1️) Enter your username to start the game.
+2) Read the clue and select the correct destination.
+3️) Get immediate feedback (confetti 🎉 or sad animation 😢).
+4️) Track your score as you progress.
+5️) Click "Challenge a Friend" to generate a shareable invite link & QR code!
 
 
 
