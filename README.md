@@ -21,28 +21,28 @@
 - README.md #Documentation
 
 #Backend Setup
-1)cd backend
-2)npm install
-3)Create .env file in the backend folder and add :
-  MONGO_URI=your_mongodb_connection_string
-  PORT=5000
-4) Start the server using "node index.js"
+- cd backend
+- npm install
+- Create .env file in the backend folder and add :
+  a) MONGO_URI=your_mongodb_connection_string
+  b) PORT=5000
+- Start the server using "node index.js"
 
 #Frontend Setup
-1) cd ../frontend
-2) npm install
-3) npm start
+- cd ../frontend
+- npm install
+- npm start
 
 #Frontend runs on port 3000
 #Backend runs on port 5000
 
 
 🔥 How to Play
-1️) Enter your username to start the game.
-2) Read the clue and select the correct destination.
-3️) Get immediate feedback (confetti 🎉 or sad animation 😢).
-4️) Track your score as you progress.
-5️) Click "Challenge a Friend" to generate a shareable invite link & QR code!
+- Enter your username to start the game.
+- Read the clue and select the correct destination.
+- Get immediate feedback (confetti 🎉 or sad animation 😢).
+- Track your score as you progress.
+- Click "Challenge a Friend" to generate a shareable invite link & QR code!
 
 
 
